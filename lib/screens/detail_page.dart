@@ -93,7 +93,7 @@ class DetailPage extends StatelessWidget {
                         Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
-                            Text('Colors'),
+                            Text('Available Colors'),
                             Row(
                               children: [
                                 Container(
